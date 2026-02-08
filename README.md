@@ -69,7 +69,3 @@ Heck-Rush-JavaScript-Oyunu/
 - [W3Schools](https://www.w3schools.com/) - Web teknolojileri referansı
 - [Claude AI](https://claude.ai/) - Yapay zeka asistanı
 
-## 📝 Lisans
-
-Bu proje açık kaynak olarak paylaşılmaktadır. Lütfen kullanırken proje adını ve tasarımcıyı belirtin.
-
